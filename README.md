@@ -1,1 +1,1 @@
-# HW-2---My-SQL-Journey
+HOMEWORK 2 - MYSQL JOURNEY
